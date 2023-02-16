@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class Conversation {
 
   public static void main(String[] args) {
@@ -44,4 +43,4 @@ for(int i = 0; i < rounds; i++) {
 
 
 
-
+// need a array list for the transcript.
